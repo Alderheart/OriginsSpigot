@@ -12,7 +12,7 @@ import net.md_5.bungee.api.ChatColor;
 
 public class Main extends JavaPlugin {
 	
-	//hello messages
+	//sky
 	@Override
 	public void onEnable() {
 		
