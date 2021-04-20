@@ -46,7 +46,7 @@ public class Gui implements CommandExecutor {
 			
 			
 			ItemStack[] menu_items = {null, null, null, null, null, null, null, null, null, null, null, null, null, avian, null, null, null, null, null, null, null, null,
-					null, null, null, null, null, arrow};
+					null, null, null, null, arrow};
 			gui.setContents(menu_items);
 			player.openInventory(gui);
 			
