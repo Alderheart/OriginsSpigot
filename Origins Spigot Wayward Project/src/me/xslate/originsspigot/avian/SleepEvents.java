@@ -7,7 +7,7 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.block.Action;
 import org.bukkit.event.player.PlayerInteractEvent;
 
-public class Sleepevents implements Listener {
+public class SleepEvents implements Listener {
 	
 	@EventHandler
 	public void onRightClickWhite(PlayerInteractEvent event) {

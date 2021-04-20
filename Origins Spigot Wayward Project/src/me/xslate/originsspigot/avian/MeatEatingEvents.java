@@ -9,7 +9,7 @@ import org.bukkit.event.player.PlayerItemConsumeEvent;
 import org.bukkit.inventory.ItemStack;
 
 
-public class Meateatingevents implements Listener {
+public class MeatEatingEvents implements Listener {
 	
 	@EventHandler
 	public void onConsume(PlayerItemConsumeEvent event) {
