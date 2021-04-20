@@ -1,0 +1,5 @@
+name: SpigotOrigins
+version: '0.1'
+author: xSlate
+main: me.xslate.originsspigot.Main
+description: "Origins mod but in spigot, for Wayward,"
