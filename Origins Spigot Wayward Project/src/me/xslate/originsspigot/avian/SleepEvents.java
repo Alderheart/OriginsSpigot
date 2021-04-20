@@ -9,6 +9,8 @@ import org.bukkit.event.player.PlayerInteractEvent;
 
 public class SleepEvents implements Listener {
 	
+	
+	
 	@EventHandler
 	public void onRightClickWhite(PlayerInteractEvent event) {
 		if (event.getAction() == Action.RIGHT_CLICK_BLOCK) {
