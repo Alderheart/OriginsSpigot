@@ -1,5 +1,9 @@
 name: SpigotOrigins
-version: '0.1'
+version: '1.0'
 author: xSlate
 main: me.xslate.originsspigot.Main
-description: "Origins mod but in spigot, for Wayward,"
+description: "Origins mod but in spigot, for Wayward Warriors"
+
+commands:
+   class:
+    description: Open a GUI
