@@ -10,7 +10,6 @@ public class EffectEvents implements Listener {
 	
 	@EventHandler
 	public void onPlayerJoin(PlayerJoinEvent event) {
-		//Hello
 		
 		//if(class = "Avian") {
 		event.getPlayer().addPotionEffect(new PotionEffect(PotionEffectType.SLOW_FALLING, Integer.MAX_VALUE, 1, true, false));

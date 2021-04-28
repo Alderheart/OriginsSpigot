@@ -1,9 +1,9 @@
-name: SpigotOrigins
-version: '1.0'
+name: OriginsSpigot
+version: 1.0
 author: xSlate
 main: me.xslate.originsspigot.Main
-description: "Origins mod but in spigot, for Wayward Warriors"
+description: A Origins mod plugin.
 
 commands:
-   class:
+   gui:
     description: Open a GUI
