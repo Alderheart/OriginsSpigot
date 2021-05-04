@@ -1,9 +1,8 @@
+main: me.xslate.originsspigot.Main
 name: OriginsSpigot
 version: 1.0
 author: xSlate
-main: me.xslate.originsspigot.Main
-description: A Origins mod plugin.
+api-version: 1.13
 
 commands:
-   gui:
-    description: Open a GUI
+  Origins:
